@@ -1,0 +1,6 @@
+[submodule "Jengin/3pLibs/spdlog"]
+	path = Jengin/3pLibs/spdlog
+	url = https://github.com/gabime/spdlog
+[submodule "Jengin/3pLibs/GLFW"]
+	path = Jengin/3pLibs/GLFW
+	url = https://github.com/glfw/glfw
