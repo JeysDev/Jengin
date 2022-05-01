@@ -1,0 +1,11 @@
+#Directories
+.vs/
+.vscode/
+bin*/
+
+#Files
+*.user
+*.xcworkspace/
+*.xcodeproj/
+*.vcxproj*
+*.sln
